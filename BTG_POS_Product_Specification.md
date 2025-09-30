@@ -1,4 +1,4 @@
-# ServeSync POS - Product Specification Document
+# BTG POS - Product Specification Document
 
 **Version:** 1.0  
 **Date:** September 30, 2025  
@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-**ServeSync POS** is a modern, cloud-based Point of Sale system designed for food service businesses ranging from single-location cafes to multi-branch restaurant chains. The system streamlines operations, enhances customer experience, and provides actionable business intelligence through an integrated suite of modules covering order management, kitchen operations, inventory control, financial management, CRM, employee management, and advanced analytics.
+**BTG POS** is a modern, cloud-based Point of Sale system designed for food service businesses ranging from single-location cafes to multi-branch restaurant chains. The system streamlines operations, enhances customer experience, and provides actionable business intelligence through an integrated suite of modules covering order management, kitchen operations, inventory control, financial management, CRM, employee management, and advanced analytics.
 
 ### Key Value Propositions
 
@@ -1279,7 +1279,7 @@
 **IMPL-002**: Migration Services
 - Data extraction from legacy systems
 - Data cleansing and validation
-- Mapping to ServeSync schema
+- Mapping to BTG POS schema
 - Phased migration approach
 - Parallel run option (old + new system)
 
@@ -1387,4 +1387,4 @@
 
 **End of Document**
 
-*This document is confidential and proprietary to ServeSync. Unauthorized distribution is prohibited.*
+*This document is confidential and proprietary to BTG POS. Unauthorized distribution is prohibited.*
